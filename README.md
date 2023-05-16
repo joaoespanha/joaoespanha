@@ -13,7 +13,7 @@ My name is Joao Espanha, and I'm a Full Stack Developer from Brazil. I'm excited
 
 Here are some of my recent projects that showcase my skills and expertise:
 
-- **Project students manager:** An aplication that uses node.js with typescript to depelop a system to facilitate private teachers lives. 
+- **Delivery App:** A full stack delivery app developed wth a 5 people team using React, Node.Js, MySQL, SOLID and TDD principles. 
 - **Receipes App:** A React aplication where you can login, see, filter and favorite your favorite receipes. The app fetches data from 2 apis that gives the drinks and meals receipes. 
 
 ## 📫 Get in touch
