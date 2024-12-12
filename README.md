@@ -8,7 +8,7 @@ I am a dedicated and innovative **Software Engineer** currently working in the T
 
 - **Generative AI Development**: Creating AI-based applications using LLMs like LLaMA, fine-tuned for legal contexts, chatbots, and innovative solutions.
 - **Machine Learning**: Designing models for legal document classification, including categorizing judicial decisions (favorable, unfavorable, or partially favorable).
-- **Backend Engineering**: Building robust APIs and backend systems using **Python**, **FastAPI**, and **Django**.
+- **Backend Engineering**: Building robust APIs and backend systems using **Python**, **FastAPI**, **Django**, **Node.js** and **TypeScript**.
 - **Frontend Development**: Crafting user-friendly interfaces using **React**, **Next.js**, **JavaScript** and **Django Templates**.
 - **Data Engineering**: Designing ETL pipelines, working with **relational** and **non-relational** databases, and optimizing data workflows.
 - **Cloud Computing**: Deploying scalable solutions in cloud environments like **Google Cloud**.
@@ -22,9 +22,9 @@ I aspire to:
 
 ## 🛠️ My Tech Stack
 
-- **Languages**: Python, JavaScript, SQL
+- **Languages**: Python, JavaScript, TypeScript, SQL
 - **Frameworks**: FastAPI, Django, Express, React, Next.js
-- **Machine Learning**: scikit-learn, XGBoost
+- **Machine Learning**: scikit-learn, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, Gradient Boosting
 - **Data**: PostgreSQL, MongoDB, BigQuery, Vector Databases, Reddis
 - **Cloud**: Google Cloud Platform
 - **Tools**: Airflow, Docker, LangChain
