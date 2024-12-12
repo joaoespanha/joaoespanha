@@ -1,27 +1,61 @@
-# Hi there! 👋
+# 👋 Hello, I'm John Espanha
 
-My name is Joao Espanha, and I'm a Full Stack Developer from Brazil. I'm excited about building innovative applications that help solve real-world problems. I'm currently focused on studying algorithms with python and in learning Next.js. 
+## 🚀 About Me
 
-## 🚀 Skills
+I am a dedicated and innovative **Software Engineer** currently working in the Technology Innovations team at the **State Attorney General’s Office of Rio de Janeiro, Brazil**. My expertise lies in developing state-of-the-art solutions leveraging **Generative AI**, **Local LLMs**, and **Machine Learning models**. My passion is transforming complex challenges into practical, efficient, and scalable solutions that create value.
 
-- **Languages:** JavaScript, TypeScript, python
-- **Back-end:** Node.js, Express.js, MySQL, MongoDB
-- **Front-end:** React, HTML, CSS, SASS, Next.js
-- **Other Tools & Technologies:** Git, Docker, Railway
+## 💻 What I Do
 
-## 📝 Projects
+- **Generative AI Development**: Creating AI-based applications using LLMs like LLaMA, fine-tuned for legal contexts, chatbots, and innovative solutions.
+- **Machine Learning**: Designing models for legal document classification, including categorizing judicial decisions (favorable, unfavorable, or partially favorable).
+- **Backend Engineering**: Building robust APIs and backend systems using **Python**, **FastAPI**, and **Django**.
+- **Frontend Development**: Crafting user-friendly interfaces using **React**, **Next.js**, **JavaScript** and **Django Templates**.
+- **Data Engineering**: Designing ETL pipelines, working with **relational** and **non-relational** databases, and optimizing data workflows.
+- **Cloud Computing**: Deploying scalable solutions in cloud environments like **Google Cloud**.
 
-Here are some of my recent projects that showcase my skills and expertise:
+## 🎯 My Goals
 
-- **Delivery App:** A full stack delivery app developed wth a 5 people team using React, Node.Js, MySQL, SOLID and TDD principles. 
-- **Receipes App:** A React aplication where you can login, see, filter and favorite your favorite receipes. The app fetches data from 2 apis that gives the drinks and meals receipes. 
+I aspire to:
 
-## 📫 Get in touch
+- Contribute to impactful projects in **AI-driven applications**.
+- Work in a **dynamic and collaborative environment** where I can continue to grow.
 
-If you want to get in touch with me, feel free to reach out by email or connect with me on LinkedIn. I'm always open to discussing new opportunities and collaborating on interesting projects. 
+## 🛠️ My Tech Stack
 
-- **Email:** jpbesr@gmail.com
-- **LinkedIn:** [Joao Espanha](https://www.linkedin.com/in/joao-espanha/)
+- **Languages**: Python, JavaScript, SQL
+- **Frameworks**: FastAPI, Django, Express, React, Next.js
+- **Machine Learning**: scikit-learn, XGBoost
+- **Data**: PostgreSQL, MongoDB, BigQuery, Vector Databases, Reddis
+- **Cloud**: Google Cloud Platform
+- **Tools**: Airflow, Docker, LangChain
+- **Version Control**: Git, GitHub
+
+## 🌍 Languages
+
+- **Portuguese**: Native
+- **English**: Fluent - C2 
+- **Spanish**: Advanced - C1
+- **French**: Intermediate - B1
+
+## 🏆 Achievements
+
+- Developed AI-powered tools that streamline legal workflows, improving efficiency at the State Attorney General’s Office.
+- Successfully led a project integrating local LLMs for a legal chatbot application, reducing response time and enhancing client satisfaction.
+- Built scalable data engineering pipelines for real-time analytics in cloud environments.
+
+## 📚 Learning & Interests
+
+I am continuously learning and exploring:
+
+- Advanced AI techniques
+- Distributed systems and scalable architectures
+- Best practices in software development and data engineering
+- Data science and data analytics
+
+## 📫 Let’s Connect
+
+- **[Linkedin](https://www.linkedin.com/in/joao-espanha/)**
+- **[jpbesr@gmail.com](jpbesr@gmail.com)**
 
 
 
